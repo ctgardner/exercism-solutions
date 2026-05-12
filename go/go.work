@@ -1,6 +1,7 @@
 go 1.23.12
 
 use (
+	./airport-robot
 	./animal-magic
 	./annalyns-infiltration
 	./bird-watcher
