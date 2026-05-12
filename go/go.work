@@ -1,6 +1,7 @@
 go 1.23.12
 
 use (
+	./animal-magic
 	./annalyns-infiltration
 	./bird-watcher
 	./blackjack
