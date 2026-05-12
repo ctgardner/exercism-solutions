@@ -17,5 +17,6 @@ use (
 	./party-robot
 	./the-farm
 	./weather-forecast
+	./welcome-to-tech-palace
 )
 
