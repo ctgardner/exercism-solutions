@@ -4,6 +4,7 @@ use (
 	./annalyns-infiltration
 	./blackjack
 	./booking-up-for-beauty
+	./cars-assemble
 	./hello-world
 	./lasagna
 	./party-robot
