@@ -2,6 +2,7 @@ go 1.23.12
 
 use (
 	./annalyns-infiltration
+	./bird-watcher
 	./blackjack
 	./booking-up-for-beauty
 	./card-tricks
