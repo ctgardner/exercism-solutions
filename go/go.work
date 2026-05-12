@@ -20,6 +20,7 @@ use (
 	./lasagna-master
 	./logs-logs-logs
 	./need-for-speed
+	./parsing-log-files
 	./party-robot
 	./sorting-room
 	./the-farm
