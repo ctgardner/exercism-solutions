@@ -5,6 +5,7 @@ use (
 	./blackjack
 	./booking-up-for-beauty
 	./cars-assemble
+	./gross-store
 	./hello-world
 	./lasagna
 	./party-robot
