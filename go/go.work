@@ -11,6 +11,7 @@ use (
 	./census
 	./chessboard
 	./election-day
+	./expenses
 	./gross-store
 	./hello-world
 	./interest-is-interesting
