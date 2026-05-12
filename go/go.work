@@ -13,6 +13,7 @@ use (
 	./hello-world
 	./jedliks-toys
 	./lasagna
+	./lasagna-master
 	./logs-logs-logs
 	./need-for-speed
 	./party-robot
