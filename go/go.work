@@ -4,6 +4,7 @@ use (
 	./annalyns-infiltration
 	./blackjack
 	./booking-up-for-beauty
+	./card-tricks
 	./cars-assemble
 	./gross-store
 	./hello-world
