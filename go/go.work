@@ -11,6 +11,7 @@ use (
 	./election-day
 	./gross-store
 	./hello-world
+	./interest-is-interesting
 	./jedliks-toys
 	./lasagna
 	./lasagna-master
