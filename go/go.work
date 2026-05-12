@@ -3,6 +3,7 @@ go 1.23.12
 use (
 	./annalyns-infiltration
 	./blackjack
+	./booking-up-for-beauty
 	./hello-world
 	./lasagna
 	./party-robot
