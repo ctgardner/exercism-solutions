@@ -8,6 +8,7 @@ use (
 	./gross-store
 	./hello-world
 	./lasagna
+	./need-for-speed
 	./party-robot
 	./weather-forecast
 )
