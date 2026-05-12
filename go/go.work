@@ -4,5 +4,6 @@ use (
 	./annalyns-infiltration
 	./hello-world
 	./lasagna
+	./party-robot
 )
 
