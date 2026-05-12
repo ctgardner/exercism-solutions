@@ -10,6 +10,7 @@ use (
 	./hello-world
 	./jedliks-toys
 	./lasagna
+	./logs-logs-logs
 	./need-for-speed
 	./party-robot
 	./weather-forecast
