@@ -6,6 +6,7 @@ use (
 	./booking-up-for-beauty
 	./card-tricks
 	./cars-assemble
+	./census
 	./chessboard
 	./gross-store
 	./hello-world
