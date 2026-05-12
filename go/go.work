@@ -2,5 +2,6 @@ go 1.23.12
 
 use (
 	./hello-world
+	./lasagna
 )
 
