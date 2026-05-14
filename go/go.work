@@ -12,6 +12,7 @@ use (
 	./census
 	./chessboard
 	./collatz-conjecture
+	./darts
 	./election-day
 	./expenses
 	./gross-store
