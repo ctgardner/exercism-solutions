@@ -24,10 +24,10 @@ use (
 	./need-for-speed
 	./parsing-log-files
 	./party-robot
+	./raindrops
 	./sorting-room
 	./the-farm
 	./vehicle-purchase
 	./weather-forecast
 	./welcome-to-tech-palace
 )
-
