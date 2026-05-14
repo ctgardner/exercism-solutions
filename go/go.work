@@ -3,6 +3,7 @@ go 1.23.12
 use (
 	./airport-robot
 	./all-your-base
+	./allergies
 	./animal-magic
 	./annalyns-infiltration
 	./bird-watcher
