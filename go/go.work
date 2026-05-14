@@ -27,6 +27,7 @@ use (
 	./raindrops
 	./sorting-room
 	./the-farm
+	./two-fer
 	./vehicle-purchase
 	./weather-forecast
 	./welcome-to-tech-palace
