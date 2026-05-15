@@ -15,6 +15,7 @@ use (
 	./chessboard
 	./collatz-conjecture
 	./darts
+	./difference-of-squares
 	./election-day
 	./expenses
 	./gross-store
