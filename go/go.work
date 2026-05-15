@@ -26,6 +26,7 @@ use (
 	./jedliks-toys
 	./lasagna
 	./lasagna-master
+	./leap
 	./logs-logs-logs
 	./meteorology
 	./need-for-speed
