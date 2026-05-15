@@ -6,6 +6,7 @@ use (
 	./allergies
 	./animal-magic
 	./annalyns-infiltration
+	./binary-search
 	./bird-watcher
 	./blackjack
 	./booking-up-for-beauty
