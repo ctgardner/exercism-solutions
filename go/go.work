@@ -22,6 +22,7 @@ use (
 	./hamming
 	./hello-world
 	./interest-is-interesting
+	./isogram
 	./jedliks-toys
 	./lasagna
 	./lasagna-master
