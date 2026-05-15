@@ -19,6 +19,7 @@ use (
 	./election-day
 	./expenses
 	./gross-store
+	./hamming
 	./hello-world
 	./interest-is-interesting
 	./jedliks-toys
