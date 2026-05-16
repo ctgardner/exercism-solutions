@@ -32,6 +32,7 @@ use (
 	./logs-logs-logs
 	./luhn
 	./meteorology
+	./micro-blog
 	./need-for-speed
 	./parsing-log-files
 	./party-robot
