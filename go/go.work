@@ -35,6 +35,7 @@ use (
 	./micro-blog
 	./need-for-speed
 	./nucleotide-count
+	./pangram
 	./parsing-log-files
 	./party-robot
 	./raindrops
