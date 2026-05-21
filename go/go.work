@@ -39,6 +39,7 @@ use (
 	./parsing-log-files
 	./party-robot
 	./raindrops
+	./resistor-color
 	./sorting-room
 	./the-farm
 	./two-fer
