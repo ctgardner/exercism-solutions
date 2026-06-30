@@ -41,6 +41,7 @@ use (
 	./raindrops
 	./resistor-color
 	./reverse-string
+	./rna-transcription
 	./sorting-room
 	./the-farm
 	./two-fer
