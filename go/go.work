@@ -44,6 +44,7 @@ use (
 	./rna-transcription
 	./scrabble-score
 	./sorting-room
+	./space-age
 	./the-farm
 	./two-fer
 	./vehicle-purchase
