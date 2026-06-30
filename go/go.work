@@ -42,6 +42,7 @@ use (
 	./resistor-color
 	./reverse-string
 	./rna-transcription
+	./scrabble-score
 	./sorting-room
 	./the-farm
 	./two-fer
